@@ -1,6 +1,7 @@
 ---
 name: just_install_packages
-packages: []
+packages:
+- terraform
 templates:
   ignoreme: ignoreme
 properties: {}

@@ -2,5 +2,5 @@
 blobstore:
   provider: s3
   options:
-    bucket_name: terraform-boshrelease
+    bucket_name: orange-terraform-boshrelease
 final_name: terraform

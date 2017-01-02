@@ -1,1 +1,9 @@
---- {}
+---
+terraform/terraform_0.7.12_linux_amd64.zip:
+  object_id: eb3d1439-d30f-4e2a-a8df-35257e163f91
+  sha: fa49d59f39d170ec560eb8da86dab8afd1dd85bf
+  size: 18600681
+terraform-cloudfoundry/terraform-provider-cloudfoundry_0.7_linux_amd64:
+  object_id: 6697b207-bb6d-41f8-b764-0c25955f2e64
+  sha: e1d46544e3f31e2675c526c9be36a80433a2fd65
+  size: 20244043

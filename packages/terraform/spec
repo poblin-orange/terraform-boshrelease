@@ -1,0 +1,6 @@
+---
+name: terraform
+dependencies: []
+files:
+- terraform/terraform_0.7.12_linux_amd64.zip
+- terraform-cloudfoundry/terraform-provider-cloudfoundry_0.7_linux_amd64
